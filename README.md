@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Harpall, I'm 28, and I'm a Le Wagon batch #1157 Data Science graduate, currently looking to kick-start my career in Data Science.
+My name is Harpall, I'm 29, and I'm a Le Wagon batch #1157 Data Science graduate, currently looking to kick-start my career in Data Science.
 
 To me, data is comparable to the veins and arteries that support the heart - it serves as the lifeline carrying clusters of untapped information waiting to be discovered. The potential impact and value that can be derived from uncharted data fascinates me and fuels my curiosity.
 
