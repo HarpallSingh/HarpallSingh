@@ -4,16 +4,19 @@ I'm a Data Analyst and Data Science Enthusiast with a passion for transforming r
 
 🚀 What I Do
 Business Intelligence & Data Analytics – Turning data into strategic insights to drive decision-making.
-Machine Learning & Predictive Modeling – Exploring AI-driven solutions for smarter outcomes.
+Exploring AI-driven solutions for smarter outcomes.
 Process Automation – Replacing manual processes with efficient, data-driven workflows.
 
 📌 Current Projects
-Chameleon BI Consultancy – Helping businesses optimize operations through data insights.
 Run It – A live music discovery app that connects users to real-time venue playlists.
+EduVision - Student Predictor Tool
+TRUST - 3rd Party Risk Assesment Tool
+Buddy - A GenAI Chatbot to support IT Departments
 
 🎯 My Focus
-Mastering SQL, Python, and Power BI for advanced analytics.
+Mastering Python, SQL, and GCP.
 Exploring LangChain & AI-powered tools for data-driven solutions.
 Building scalable and impactful data products.
+Building and launching Run It
 
-💡 Always open to collaboration, knowledge-sharing, and exciting opportunities in the data space. Let's connect! 🚀
+Always open to collaboration, knowledge-sharing, and exciting opportunities in the data space. Let's connect! 
