@@ -1,22 +1,19 @@
-### Hi 👋
+Hi I'm Harpall!
 
-My name is Harpall, I'm 30, and I'm a Le Wagon batch #1157 Data Science graduate, currently looking to kick-start my career in Data Science.
+I'm a Data Analyst and Data Science Enthusiast with a passion for transforming raw data into actionable insights. With a background in Data Science (Le Wagon, Batch #1157) and over a decade of professional experience, I thrive on solving complex problems through analytics, automation, and storytelling.
 
-To me, data is comparable to the veins and arteries that support the heart - it serves as the lifeline carrying clusters of untapped information waiting to be discovered. The potential impact and value that can be derived from uncharted data fascinates me and fuels my curiosity.
+🚀 What I Do
+Business Intelligence & Data Analytics – Turning data into strategic insights to drive decision-making.
+Machine Learning & Predictive Modeling – Exploring AI-driven solutions for smarter outcomes.
+Process Automation – Replacing manual processes with efficient, data-driven workflows.
 
-My aspirations are fixated on acquiring a role as an Data Analyst or Data Scientist. Until I achieve this, my focus remains on sharpening my skill set to alongside working on my soft-skills I have gained in the past 10 years of being in work. I am committed to producing exceptional projects and exhibiting my expertise to the world by showcasing them on my GitHub profile.
+📌 Current Projects
+Chameleon BI Consultancy – Helping businesses optimize operations through data insights.
+Run It – A live music discovery app that connects users to real-time venue playlists.
 
-<!--
-**HarpallSingh/HarpallSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 My Focus
+Mastering SQL, Python, and Power BI for advanced analytics.
+Exploring LangChain & AI-powered tools for data-driven solutions.
+Building scalable and impactful data products.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Always open to collaboration, knowledge-sharing, and exciting opportunities in the data space. Let's connect! 🚀
